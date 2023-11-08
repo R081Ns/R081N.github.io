@@ -1,0 +1,10 @@
+html{
+    background-color: black;
+}
+
+h1,
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkcyan;
+    text-align: center;
+}
